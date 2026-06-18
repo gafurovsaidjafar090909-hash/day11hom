@@ -389,6 +389,9 @@
   .bg-\[\#0F172A\] {
     background-color: #0F172A;
   }
+  .bg-\[\#334155\] {
+    background-color: #334155;
+  }
   .bg-\[\#EA580C\] {
     background-color: #EA580C;
   }
@@ -528,6 +531,12 @@
   }
   .text-\[\#FACC15\] {
     color: #FACC15;
+  }
+  .text-\[eehite\] {
+    color: eehite;
+  }
+  .text-\[ehite\] {
+    color: ehite;
   }
   .text-\[white\] {
     color: white;
